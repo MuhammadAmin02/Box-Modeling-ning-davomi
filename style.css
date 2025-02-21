@@ -1,0 +1,380 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 1400px;
+    margin: 0 auto;
+}
+.qw{
+    background-color: blueviolet;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex;
+}
+.we{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+    margin-left: 3px;
+}
+.er{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet; 
+}
+.rt{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+}
+.ty{
+    background-color: blueviolet;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex;
+    display: table-column; 
+}
+.yu{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet; 
+}
+.ui{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+}
+.io{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+}
+.op{
+    background-color: blueviolet;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.pa{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+}
+.as{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+}
+.sd{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+}
+.df{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+}
+.fg{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+   margin-right: 225px;
+   margin-bottom: 160px;
+}
+.gh{
+    background-color: blueviolet;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.hj{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+}
+.jk{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+}
+.kl{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+    
+}
+.lz{
+    background-color: blueviolet;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex;
+    margin-top: 50px;
+}
+.zx{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+    margin-left: 3px;
+} 
+.xc{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+}
+.cv{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+}
+.vb{
+    background-color: blueviolet;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: end;  
+    margin-top: 50px; 
+}
+.bn{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet; 
+}
+.nm{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+}
+.mq{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+}
+.qaz{
+    background-color: blueviolet;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px; 
+}
+.wsx{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;  
+}
+.edc{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+}
+.rfv{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+}
+.tgb{
+    background-color: blueviolet;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;  
+}
+.yhn{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet; 
+}
+.ujm{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+}
+.ikq{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+}
+.opl{
+    background-color: blueviolet;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex; 
+    margin-top: 50px;
+}
+.zaq{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet; 
+}
+.xsw{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+}
+.cde{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+}
+.vfr{
+    background-color: blueviolet;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex; 
+    align-items: end;
+    margin-top: 50px;
+}
+.bgt{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+}
+.nhy{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+}
+.mju{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+}
+.qwe{
+    background-color: blueviolet;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    margin-top: 50px;  
+}
+.rty{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet; 
+}
+.uio{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+}
+.opa{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+}
+.sdf{
+    background-color: blueviolet;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.ghj{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;   
+}
+.klz{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+}
+.xcv{
+    background-color: orange;
+    height: 65px;
+    width: 65px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+}
